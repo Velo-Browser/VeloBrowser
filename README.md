@@ -11,13 +11,13 @@ Velo is a lightweight, privacy-first web browser built for speed, simplicity, an
 ## 📦 Installation
 Coming soon — stay tuned for pre-release builds and installation instructions.
 
-#📬 Contact
+##📬 Contact
 For questions, feedback, or contributions, reach out to the team at
 📧 velobrowser@groups.outlook.com
 
-#🤝 Contributing
+##🤝 Contributing
 We welcome pull requests, feature suggestions, and bug reports.
 Check out our CONTRIBUTING.md for guidelines.
 
-#📄 License
+##📄 License
 MIT — feel free to use, modify, and share.
